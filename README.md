@@ -2,7 +2,7 @@
 - Java기반 웹 백엔드를 공부하고 있습니다.
   
 &nbsp;
-### 🖌 Tech
+### 🖌 &nbsp;Tech
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
