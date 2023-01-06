@@ -18,7 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=Baseballgame&theme=dracula">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=MulCam_SemiProject_Team3&theme=dracula">
 </p>
-
 <br><br>
 
 <h2 align="center">📊 &nbsp;Stats</h2>
@@ -33,3 +32,4 @@
 <p align="center">
 <a href="https://velog.io/@yu_na"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yu_na"/></a>
 </p>
+<br><br>
