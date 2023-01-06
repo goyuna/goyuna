@@ -24,7 +24,7 @@
 <h2 align="center">📊 &nbsp;Stats</h2>
 <p align="center">
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggyn" height=180>
-<br>
+<br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=goyuna&hide=contribs,prs&show_icons=true&theme=dracula">
 </p>
 <br><br>
