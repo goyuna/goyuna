@@ -15,14 +15,9 @@
 
 <h2 align="center">📊 &nbsp;Stats</h2>
 <p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggyn" height=180>
-</p>
-<center>
-
-![Yuna's Github Stats](https://github-readme-stats.vercel.app/api?username=goyuna&hide=contribs,prs&show_icons=true&theme=dracula)
-
-</center>
-
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggyn" height=180>
+</p><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=goyuna&hide=contribs,prs&show_icons=true&theme=dracula">
 <br><br>
 
 <h3 align="center"> 🐥 Me 🐥 </h3>
