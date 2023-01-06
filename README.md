@@ -17,10 +17,11 @@
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggyn" height=180>
 </p>
-<br/><br/>
+<center>
 
-&nbsp;
 ![Yuna's Github Stats](https://github-readme-stats.vercel.app/api?username=goyuna&hide=contribs,prs&show_icons=true&theme=dracula)
+
+</center>
 
 <br><br>
 
