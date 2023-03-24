@@ -13,10 +13,11 @@
 
 <h2 align="center"> 📍Projects</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunpark924&repo=Comprehensive-Design-2&theme=dracula">&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=TestAutomation&theme=dracula">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=Baseballgame&theme=dracula">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=MulCam_SemiProject_Team3&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=multiletsplay&repo=letsplay&theme=dracula">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunpark924&repo=Comprehensive-Design-2&theme=dracula">
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=TestAutomation&theme=dracula">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=goyuna&repo=Baseballgame&theme=dracula">
 </p>
 <br><br>
 
