@@ -12,8 +12,6 @@
   
  ---
  
- <br>
- 
 ### Stack ✏️
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
