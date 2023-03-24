@@ -2,9 +2,8 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=goyuna&show_icons=true&theme=dracula&hide=contribs"/>
  
   ### 🐥 Go Yuna 🐥 
- 
+ <br>
  <a href="https://solved.ac/ggyn"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ggyn"/></a>
- ---
 <a href="https://velog.io/@yu_na"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yu_na"/></a>
  
  <br>
